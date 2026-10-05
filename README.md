@@ -7,5 +7,8 @@ LINK DO UNITY PLAY:
 https://play.unity.com/en/games/3fa3b37b-326e-47e0-8bd8-1cb13b660079/fbp-find-the-bricks-pacman
 
 Assets:
-
 Pacman : https://models.spriters-resource.com/pc_computer/pacmanworldrepac/asset/339924/
+
+Controle(Movimentação):
+
+Escolhemos utilizar os comando simples de movimentação (W,A,S,D) para tornar a experiência mais parecida com o jogo antigo.
